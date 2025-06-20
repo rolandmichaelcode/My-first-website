@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Roland's First Website</title>
+</head>
+<body>
+  <h1>Hello, World!</h1>
+  <p>This is my very first GitHub web project!</p>
+</body>
+</html>
